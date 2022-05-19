@@ -1,2 +1,1 @@
-# tlauncher-setup
-TLauncher setup for linux.
+Easy setup TLauncher for linux.
