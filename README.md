@@ -1,1 +1,1 @@
-Easy setup TLauncher for linux.
+# Easy setup TLauncher for linux.
